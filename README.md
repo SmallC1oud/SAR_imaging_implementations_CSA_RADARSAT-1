@@ -11,8 +11,11 @@ This project focuses on Synthetic Aperture Radar (SAR) imaging algorithms and im
 注意：需要先读取RADARSAT-1数据，然后修改路径
 # 读取数据说明
 1、打开specify_parameters.m文件
+
 2、修改输入输出路径
+
 3、运行specify_parameters.m文件得到两个SAR回波数据
+
 4、数据在CD_run_params.mat中有储存
 详细说明见Extracting_SAR_Data_from_the_CD.pdf文件
 
